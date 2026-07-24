@@ -200,9 +200,11 @@ print("\nDiscount Factor:", discount_factor)
 ---
 
 # Output
-
-<img width="332" height="229" alt="Screenshot 2026-07-24 151333" src="https://github.com/user-attachments/assets/c03b62b0-b234-4cc5-843f-7a930980530e" />
+### States
+<img width="332" height="229" alt="Screenshot 2026-07-24 151333" src="https://github.com/user-attachments/assets/c03b62b0-b234-4cc5-843f-7a930980530e" /> 
+### P
 <img width="359" height="445" alt="Screenshot 2026-07-24 151321" src="https://github.com/user-attachments/assets/92b0a215-dd3b-47f7-9c5f-66a5b1f56327" />
+### Actions
 <img width="237" height="115" alt="Screenshot 2026-07-24 151313" src="https://github.com/user-attachments/assets/4e4c62ef-fad0-4c5d-aa3d-8fd516ae5aa6" />
 
 
