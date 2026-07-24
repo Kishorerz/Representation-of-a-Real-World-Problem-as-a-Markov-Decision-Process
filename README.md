@@ -152,7 +152,7 @@ States are represented as nodes, while actions, rewards, and transitions are rep
 # MDP Representation using Python
 
 print("Name: Kishor")
-print("Register Number: ____________")
+print("Register Number: 212223240072")
 
 states = {
     "S1": "Dry Soil, Sunny",
