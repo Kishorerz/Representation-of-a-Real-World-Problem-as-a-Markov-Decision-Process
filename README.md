@@ -139,23 +139,8 @@ The objective is to maximize the total accumulated reward while maintaining heal
 
 # Graphical Representation
 
-```text
-                Start Irrigation (+10)
-S1 -------------------------------> S3
+<img width="1536" height="1024" alt="ChatGPT Image Jul 24, 2026, 03_16_48 PM" src="https://github.com/user-attachments/assets/7b02c10d-db42-4fee-9760-6ffae21f5784" />
 
- |                                  |
- | Wait (+8)                        | Wait
- v                                  v
-
-S2 -------------------------------> S5
-          Rain (+15)
-
-S5 -------- Stop Irrigation -------> S3
-             (+5)
-
-S3 -------- Wait ------------------> S4
-              (+2)
-```
 
 States are represented as nodes, while actions, rewards, and transitions are represented as directed edges.
 
@@ -216,26 +201,10 @@ print("\nDiscount Factor:", discount_factor)
 
 # Output
 
-```text
-Name: Kishor
-Register Number: ____________
+<img width="332" height="229" alt="Screenshot 2026-07-24 151333" src="https://github.com/user-attachments/assets/c03b62b0-b234-4cc5-843f-7a930980530e" />
+<img width="359" height="445" alt="Screenshot 2026-07-24 151321" src="https://github.com/user-attachments/assets/92b0a215-dd3b-47f7-9c5f-66a5b1f56327" />
+<img width="237" height="115" alt="Screenshot 2026-07-24 151313" src="https://github.com/user-attachments/assets/4e4c62ef-fad0-4c5d-aa3d-8fd516ae5aa6" />
 
-States:
-S1: Dry Soil, Sunny
-S2: Dry Soil, Rain Expected
-S3: Moderately Moist Soil, Sunny
-S4: Moderately Moist Soil, Rain Expected
-S5: Wet Soil, Sunny
-S6: Wet Soil, Rain Expected
-
-Actions:
-- Start Irrigation
-- Stop Irrigation
-- Wait
-- Partial Irrigation
-
-Discount Factor: 0.9
-```
 
 ---
 
